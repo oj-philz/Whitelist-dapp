@@ -3,7 +3,7 @@ export const abi = [
     "inputs": [
       {
         "internalType": "uint8",
-        "name": "_maxWhitelistedAddress",
+        "name": "_maxWhitelistedAddresses",
         "type": "uint8"
       }
     ],
@@ -12,7 +12,7 @@ export const abi = [
   },
   {
     "inputs": [],
-    "name": "addAddresstoWhitelist",
+    "name": "addAddressToWhitelist",
     "outputs": [],
     "stateMutability": "nonpayable",
     "type": "function"
@@ -37,4 +37,4 @@ export const abi = [
     "type": "function"
   }
 ];
-export const WHITELIST_CONTRACT_ADDRESS = "0x6146CD726e95b55533490339F2d82d67D9251c44";
+export const WHITELIST_CONTRACT_ADDRESS = " 0x154fA4bA50a4854d122dd8598F9CD070337bb760";
