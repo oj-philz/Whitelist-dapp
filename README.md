@@ -1,2 +1,2 @@
-# MyRepository
-my first repository
+# Whitelist Dapp
+Whitelist dapp using hardhat and react js
